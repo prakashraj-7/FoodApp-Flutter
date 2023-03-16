@@ -1,5 +1,5 @@
 # FoodApp
-
+Firebase / firestore / Riverpod / Authentication /annonotion
 A new Flutter project.
 
 ## Getting Started
