@@ -1,4 +1,4 @@
-# calsapp
+# FoodApp
 
 A new Flutter project.
 
